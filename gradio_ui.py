@@ -1,3 +1,4 @@
+import streamlit as st
 import gradio as gr
 
 from cap import predict_step
