@@ -1,6 +1,6 @@
 import gradio as gr
 
-from predict_caption import predict_step
+from cap import predict_step
 
 with gr.Blocks() as demo:
     image = gr.Image(type='pil', label='Image')
