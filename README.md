@@ -6,7 +6,7 @@ Installed Gradio
 Installed Python 3.11 or higher
 <br>
 Trained machine learning model(s), our app uses an image
- classification model trained on a Hugging Face[https://huggingface.co/nlpconnect/vit-gpt2-image-captioning]
+ classification model trained on a Hugging Face https://huggingface.co/nlpconnect/vit-gpt2-image-captioning
 <br>
 Installed required Liberaries
 <br>
