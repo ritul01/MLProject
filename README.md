@@ -17,7 +17,7 @@ Made Virtual Environment
 
 1. Clone the repository
 <br>
-2. Install the required libraries by running `pip install -r requirements.txt` in your terminal
+2. Install the required libraries
 <br>
 
 
@@ -29,6 +29,15 @@ pip install -r requirements.txt
 
 
 <br>
-3. Activate the virtual environment by running `myenv/bin/activate`
+3. Activate the virtual environment by running
+<br>
+
+
+```python
+myenv/bin/activate
+```
+
+
+
 <br>
 4. Run the app by running `python gradio_ui.py` in your terminal
