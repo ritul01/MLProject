@@ -1,5 +1,7 @@
 from transformers import VisionEncoderDecoderModel, ViTImageProcessor, AutoTokenizer
 import torch
+# from inltk.inltk import setup
+# from indicnlp.transliterate.unicode_transliterate import UnicodeIndicTransliterator
 from PIL import Image
 
 model = VisionEncoderDecoderModel.from_pretrained('vit-gpt2-image-captioning')
@@ -26,4 +28,6 @@ def predict_step(image):
     return preds[0]
 
 # image = Image.open('marcel-l-PQewPJqNKwQ-unsplash.jpg')
-# print(predict_step(image=image))
+# pp=(predict_step(image=image))
+# print(pp)
+# print(UnicodeIndicTransliterator.transliterate(pp,"en","hi"))

@@ -63,3 +63,5 @@ python gradio_ui.py
 6. Dropdown your Image
 <br>
 7. See the captions Generated
+<br>
+8. We can Change the Output in Hindi Language by NLP(indicnlp) Library
