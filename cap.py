@@ -25,5 +25,5 @@ def predict_step(image):
     preds = [pred.strip() for pred in preds]
     return preds[0]
 
-image = Image.open('marcel-l-PQewPJqNKwQ-unsplash.jpg')
-print(predict_step(image=image))
+# image = Image.open('marcel-l-PQewPJqNKwQ-unsplash.jpg')
+# print(predict_step(image=image))
