@@ -17,6 +17,14 @@ Made Virtual Environment
 
 1. Clone the repository
 <br>
+
+
+```python
+git clone https://github.com/ritul01/MLProject
+```
+
+
+<br>
 2. Install the required libraries
 <br>
 
