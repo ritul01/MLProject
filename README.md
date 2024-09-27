@@ -40,4 +40,18 @@ myenv/bin/activate
 
 
 <br>
-4. Run the app by running `python gradio_ui.py` in your terminal
+4. Run the app by running below command in your terminal
+<br>
+
+
+```python
+python gradio_ui.py
+```
+
+
+<br>
+5. Open your web browser and see the app
+<br>
+6. Dropdown your Image
+<br>
+7. See the captions Generated
