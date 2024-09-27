@@ -14,9 +14,12 @@ Made Virtual Environment
 <br>
 
 ## How to Satrt the App
+
 1. Clone the repository
 <br>
 2. Install the required libraries by running `pip install -r requirements.txt` in your terminal
+<br>
+```pip install -r requirements.txt```
 <br>
 3. Activate the virtual environment by running `myenv/bin/activate`
 <br>
