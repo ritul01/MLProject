@@ -11,3 +11,7 @@ Trained machine learning model(s), our app uses an image
 Installed required Liberaries
 <br>
 Made Virtual Environment
+
+
+<br>
+### How to Run the App
