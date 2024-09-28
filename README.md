@@ -65,3 +65,6 @@ python gradio_ui.py
 7. See the captions Generated
 <br>
 8. We can Change the Output in Hindi Language by NLP(indicnlp) Library
+<br>
+
+![screenshot](img1.png)

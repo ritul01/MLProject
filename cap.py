@@ -28,6 +28,7 @@ def predict_step(image):
     return preds[0]
 
 # image = Image.open('marcel-l-PQewPJqNKwQ-unsplash.jpg')
+#print(predict_step(image=image))
 # pp=(predict_step(image=image))
 # print(pp)
 # print(UnicodeIndicTransliterator.transliterate(pp,"en","hi"))
