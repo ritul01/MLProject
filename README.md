@@ -71,3 +71,7 @@ Here are some visuals from the app
 
 ![screenshot](img1.png)
 <br>
+
+
+https://github.com/user-attachments/assets/6f65006e-0da1-4ac5-b730-0bb77c6212f5
+
