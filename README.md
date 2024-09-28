@@ -66,5 +66,10 @@ python gradio_ui.py
 <br>
 8. We can Change the Output in Hindi Language by NLP(indicnlp) Library
 <br>
-
+Here are some visuals from the app
+<br>
 ![screenshot](img1.png)
+<br>
+![screenshot](vd1.mp4)
+<br>
+![screenshot](vd2.mp4)
