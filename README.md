@@ -72,7 +72,7 @@ Here are some visuals from the app
 ![screenshot](img1.png)
 <br>
 
-![screenshot](vd1.mp4)
+![video](vd1.mp4)
 <br>
 
-![screenshot](vd2.mp4)
+![video](vd2.mp4)
