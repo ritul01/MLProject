@@ -68,8 +68,11 @@ python gradio_ui.py
 <br>
 Here are some visuals from the app
 <br>
+
 ![screenshot](img1.png)
 <br>
+
 ![screenshot](vd1.mp4)
 <br>
+
 ![screenshot](vd2.mp4)
